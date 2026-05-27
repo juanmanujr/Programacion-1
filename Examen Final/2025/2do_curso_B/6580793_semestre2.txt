@@ -1,5 +1,0 @@
-Base de Datos I,100,5
-Datos I - Estructura,100,5
-Fisica II,100,5
-Laboratorio de Hardware,100,5
-Matematica II,100,5
