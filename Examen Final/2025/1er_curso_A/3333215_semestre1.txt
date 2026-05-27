@@ -1,0 +1,5 @@
+Comunicacion Oral y Escrita,67.0556,2
+Fisica I,86,4
+Logica de Programacion,85,4
+Matematica I,100,5
+Teoria de la Informatica,84,4

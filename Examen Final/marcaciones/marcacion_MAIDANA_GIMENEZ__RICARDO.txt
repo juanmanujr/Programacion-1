@@ -1,0 +1,24 @@
+===== MARCACION =====
+Docente: MAIDANA GIMENEZ, RICARDO
+Materia: ing informatica
+Tipo: entrada
+Fecha: 25/06/2025
+Hora: 07:45
+Observacion: llegada puntual a clases
+--------------------------
+===== MARCACION =====
+Docente: MAIDANA GIMENEZ, RICARDO
+Materia: ing informatica
+Tipo: salida
+Fecha: 25/06/2025
+Hora: 12:00
+Observacion: salida a tiempo
+--------------------------
+===== MARCACION =====
+Docente: MAIDANA GIMENEZ, RICARDO
+Materia: ing informatica
+Tipo: entrada
+Fecha: 13/03/2025
+Hora: 07:45
+Observacion: lelgada a hora
+--------------------------

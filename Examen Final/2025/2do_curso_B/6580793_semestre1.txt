@@ -1,0 +1,5 @@
+Comunicacion Oral y Escrita,100,5
+Fisica I,100,5
+Logica de Programacion,100,5
+Matematica I,100,5
+Teoria de la Informatica,100,5

@@ -1,0 +1,33 @@
+===== CARGAR PLANIFICACION DOCENTE =====
+Carrera: Ing Informatica
+Seccion: B
+Horas teoricas: 2
+Horas practicas: 22
+Horas totales: 24
+Semana: Semana 1
+Fecha desde: 12/08/2025
+Contenido a desarrollar: Funciones
+Planificacion guardada correctamente.
+------------------------------------------
+===== CARGAR PLANIFICACION DOCENTE =====
+Carrera: Ing Informatica
+Seccion: B
+Horas teoricas: 2
+Horas practicas: 3
+Horas totales: 5
+Semana: Semana 1
+Fecha desde: 12/05/2025
+Contenido a desarrollar: Arreglos
+Planificacion guardada correctamente.
+------------------------------------------
+===== CARGAR PLANIFICACION DOCENTE =====
+Carrera: ing informatica
+Seccion: b
+Horas teoricas: 3
+Horas practicas: 2
+Horas totales: 5
+Semana: semana 2
+Fecha desde: 14/04/2025
+Contenido a desarrollar: condicionales
+Planificacion guardada correctamente.
+------------------------------------------

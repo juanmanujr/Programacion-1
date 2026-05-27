@@ -1,0 +1,6 @@
+===== HISTORIAL ACADEMICO =====
+Nombre: pepe
+CI: 12345
+Curso: 2 B - 2025
+
+--- Materias ---

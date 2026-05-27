@@ -1,0 +1,65 @@
+Docente: MAIDANA GIMENEZ, RICARDO - PROGRAMACION I
+Curso: 3
+Fecha: 2025
+1.1 Dominio de contenidos: 5
+1.2 Objetivos claros: 5
+2.1 Relacion con la profesion: 5
+2.2 Organizacion del contenido: 5
+2.3 Evaluaciones coherentes: 5
+2.4 Participacion en investigacion o extension: 5
+3.1 Uso de tecnologia: 5
+4.1 Comunicacion con el alumno: 5
+4.2 Empatia con el alumno: 5
+-----
+Docente: MAIDANA GIMENEZ, RICARDO - PROGRAMACION I
+Curso: 2
+Fecha: 12/05/2025
+1.1 Dominio de contenidos: 5
+1.2 Objetivos claros: 5
+2.1 Relacion con la profesion: 5
+2.2 Organizacion del contenido: 5
+2.3 Evaluaciones coherentes: 5
+2.4 Participacion en investigacion o extension: 5
+3.1 Uso de tecnologia: 5
+4.1 Comunicacion con el alumno: 5
+4.2 Empatia con el alumno: 5
+-----
+Docente: MAIDANA GIMENEZ, RICARDO - PROGRAMACION I
+Curso: 2
+Fecha: 12/07/2025
+1.1 Dominio de contenidos: 5
+1.2 Objetivos claros: 5
+2.1 Relacion con la profesion: 5
+2.2 Organizacion del contenido: 5
+2.3 Evaluaciones coherentes: 5
+2.4 Participacion en investigacion o extension: 5
+3.1 Uso de tecnologia: 5
+4.1 Comunicacion con el alumno: 5
+4.2 Empatia con el alumno: 5
+-----
+Docente: MAIDANA GIMENEZ, RICARDO - PROGRAMACION I
+Curso: 2
+Fecha: 12/07/2025
+1.1 Dominio de contenidos: 4
+1.2 Objetivos claros: 4
+2.1 Relacion con la profesion: 4
+2.2 Organizacion del contenido: 4
+2.3 Evaluaciones coherentes: 4
+2.4 Participacion en investigacion o extension: 4
+3.1 Uso de tecnologia: 4
+4.1 Comunicacion con el alumno: 4
+4.2 Empatia con el alumno: 4
+-----
+Docente: MAIDANA GIMENEZ, RICARDO - PROGRAMACION I
+Curso: 2
+Fecha: 12/07/2025
+1.1 Dominio de contenidos: 3
+1.2 Objetivos claros: 3
+2.1 Relacion con la profesion: 3
+2.2 Organizacion del contenido: 3
+2.3 Evaluaciones coherentes: 3
+2.4 Participacion en investigacion o extension: 3
+3.1 Uso de tecnologia: 3
+4.1 Comunicacion con el alumno: 3
+4.2 Empatia con el alumno: 3
+-----
