@@ -1,26 +1,3 @@
 
-1,5861234,5861234,1,1,A,2025
-Lucas Benitez,5861234,5861234,1,1,A,2025
-Mariana Gonzalez,7012456,7012456,1,1,A,2025
-Juan Perez,4444215,4444215,1,1,A,2025
-Neymar Jr,3333215,neymarjr123,1,1,A,2025
-pepe,12345,12345,2,3,B,2025,comida favorita,vori
-Rodrigo Mora,12345,12345,2,3,B,2025,noombre de la mascota,tobi
-Mayra,444215,juanma123,2,3,B,2025,donde naciste,altos
-juan gomez,6580793,6580793,1,1,a,2025,gato,pepe
-eduardo,12345,12345,1,1,a,2025,,
-jose,12345,12345,1,1,a,2025,nombre de mascota,gio
-pepe,4444215,4444215,1,1,b,2025,nombre de mascota,gio
-pepe sosa,11111,11111,1,2,b,2024,nombre de mascota,gio
-diego gomez,234323,diegogomez123,1,1,a,2025,nombre de mascota,gio
-Carlos Gomez,1111111,pass123,3,1,B,2025,Nombre de tu mascota,Rocky
-Lucia Martinez,2222222,pass234,3,1,B,2025,Color favorito,Azul
-Pedro Sanchez,3333333,pass345,3,1,B,2025,Ciudad natal,Encarnacion
-Ana Duarte,4444444,pass456,3,1,B,2025,Nombre del primer maestro,Silvia
-Diego Rojas,5555555,pass567,3,1,B,2025,Libro favorito,El Principito
-Sofia Vera,6666666,pass678,3,1,B,2025,Comida favorita,Ñoquis
-Jorge Fernandez,7777777,pass789,3,1,B,2025,Animal favorito,Tigre
-Valentina Ruiz,8888888,pass890,3,1,B,2025,Pelicula favorita,Matrix
-Mario Lopez,9999999,pass901,3,1,B,2025,Nacionalidad,Paraguaya
-Laura Caballero,1010101,pass012,3,1,B,2025,Apellido de tu madre,Fernandez
+
 eduardo veiga,553443,,1,3,A,2014,44,44
