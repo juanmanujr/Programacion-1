@@ -1,6 +1,0 @@
-Fisica III,100,5
-Geometria Analitica,100,5
-Lenguajes Visuales I,100,5
-Sistemas Operativos (Cliente-Servidor),100,5
-Programacion I,100,5
-PROGRAMACION I,100,5
